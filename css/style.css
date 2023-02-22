@@ -54,7 +54,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 }
 
 body {
-  margin: 0;
+  /* margin: 0;
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
   font-weight: 400;
@@ -64,6 +64,16 @@ body {
   background-image: url(../img/dolar.jpg);
   background-position: center top;
   background-size: 100% auto;
+  background-color: #FFFFFF; */
+  
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #818491;
+  text-align: left;
+  background-image: url(../img/dolar.jpg);
   background-color: #FFFFFF;
 }
 
